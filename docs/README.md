@@ -27,7 +27,7 @@ Repository follows best practices for class/id naming conventions, indentation, 
 Repository contains multiple descriptive commit messages. ✔
 
 Repository contains quality README file with description, screenshot, and link to deployed application. ✔
-![html-css-git-homework-demo](Assets/01-html-css-git-homework-demo.png "Page Preview") 
+![html-css-git-homework-demo](./assets/01-html-css-git-homework-demo.png "Page Preview") 
 
 The URL of the deployed application. https://mtbishop.github.io/01-HTML-CSS-Git-Code-Refractor/ ✔
 
